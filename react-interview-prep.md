@@ -10,3 +10,7 @@
   
   
   
+2.reduce 
+reduce((accumulator, currentValue, index, array) => { ... }, initialValue)
+  
+  
