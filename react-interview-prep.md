@@ -23,4 +23,4 @@
   
 4. slice: returns a shallow copy of an array from a specified start position and before a specified end position.
   
-  
+  https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
