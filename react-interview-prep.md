@@ -21,4 +21,6 @@
   splice(start, deleteCount, item1)
   splice(start, deleteCount, item1, item2, itemN)
   
+4. slice: returns a shallow copy of an array from a specified start position and before a specified end position.
+  
   
