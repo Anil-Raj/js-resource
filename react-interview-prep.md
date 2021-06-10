@@ -11,6 +11,14 @@
   
   
 2.reduce 
-reduce((accumulator, currentValue, index, array) => { ... }, initialValue)
+  reduce((accumulator, currentValue, index, array) => { ... }, initialValue)
+
+
+
+3.splice //remove or replace and/or add new item
+  splice(start)
+  splice(start, deleteCount)
+  splice(start, deleteCount, item1)
+  splice(start, deleteCount, item1, item2, itemN)
   
   
