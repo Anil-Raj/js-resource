@@ -23,6 +23,7 @@
   <p>20</p>
 </body>
 <script>
+  
   document.addEventListener("wheel", function (e) {
 
     // get the old value of the translation (there has to be an easier way than this)
@@ -37,6 +38,7 @@
     return false;
     
 }, true);
+  
   </script>
   <style>
   body {
